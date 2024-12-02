@@ -1,0 +1,3 @@
+"C:\Users\oreva\AppData\Local\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\HotelK.dir/objects.a
+C:\Users\oreva\AppData\Local\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\HotelK.dir/objects.a @CMakeFiles\HotelK.dir\objects1.rsp
+C:\Users\oreva\AppData\Local\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\HotelK.dir/objects.a -Wl,--no-whole-archive -o HotelK.exe -Wl,--out-implib,libHotelK.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HotelK.dir\linkLibs.rsp

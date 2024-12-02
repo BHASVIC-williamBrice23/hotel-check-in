@@ -1,0 +1,3 @@
+C:/Users/oreva/OneDrive/Documents/GitHub/Hotel-Group-Project-C/HotelK/cmake-build-debug/CMakeFiles/HotelK.dir
+C:/Users/oreva/OneDrive/Documents/GitHub/Hotel-Group-Project-C/HotelK/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oreva/OneDrive/Documents/GitHub/Hotel-Group-Project-C/HotelK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
